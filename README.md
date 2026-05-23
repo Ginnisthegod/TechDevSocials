@@ -438,4 +438,4 @@ This project is proprietary and confidential.
 
 ---
 
-Built with ❤️ by the DevSocial Team (Ak David)
+Built with ❤️ by the DevSocial Team 
